@@ -1,4 +1,4 @@
 # digitalcommons
 provisional name
 
-## Anyone interested will be granted maximum permission (admin, etc)
+## Anyone genuienly intested is eligible for maximum permission (admin, etc)
