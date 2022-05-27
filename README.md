@@ -21,3 +21,7 @@ Our intention is we create the 'digital commons' with a huge emphasis on Equal P
 As such, the only 'license' that makes sense is the Freest, Least Restricive one, if a 'license' is required at all.
 
 We will collectively refine this over time!
+
+## Anyone who needs help with Git sysyem itself will get it
+Pleasr just say something. We will make sure you become comfortable with the Git system.
+
