@@ -23,5 +23,5 @@ As such, the only 'license' that makes sense is the Freest, Least Restricive one
 We will collectively refine this over time!
 
 ## Anyone who needs help with Git sysyem itself will get it
-Pleasr just say something. We will make sure you become comfortable with the Git system.
+Please just say something. We will help you become comfortable with the Git system.
 
