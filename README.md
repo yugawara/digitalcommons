@@ -1,7 +1,7 @@
 # digitalcommons
 provisional name
 
-## Anyone genuienly intested is eligible for maximum permission (admin, etc)
+## Anyone genuinely intested is eligible for maximum permission (admin, etc)
 
 ## Some Git related traffic rules
 
