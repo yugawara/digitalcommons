@@ -15,7 +15,7 @@ provisional name
 
 - We will refine these rules over time
 
-## Licensing!
+## Licensing/Cooyrights
 The intention is we create the 'digital commons' with a huge emphasis on Equal Partnership of the participants.  One person one vote.  Anyone who agrees with this principle is welcome to join.
 
 As such, the only 'license' that makes sense is the Freest, Least Restricive one, if a 'license' is required at all.
