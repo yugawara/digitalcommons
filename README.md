@@ -13,6 +13,8 @@ provisional name
 
 - When mistakes are made, unless too severe, we prefer to 'git revert' and commit the cancellation, rather than really going back, which will require considerable coordination
 
+- We will refine these rules over time
+
 ## Licensing!
 The intention is we create the 'digital commons' with a huge emphasis on Equal Partnership of the participants.  One person one vote.  Anyone who agrees with this principle is welcome to join.
 
