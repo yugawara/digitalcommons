@@ -11,5 +11,4 @@ provisional name
 
 - 'Linear History' is Required.  The intention is similar to above, to simplify the process and maximize commit freedom
 
-
-
+- Unless the 'mistake' is too severer, we prefer to 'git revert' and commit the cancellation, rather than really going back, which will require considerable coordination
