@@ -5,7 +5,7 @@ provisional name
 
 ## Some Git related traffic rules
 
-### (if there are better ideas please suggest and decide together!)
+### (if there are better ideas please suggest and let's decide together!)
 
 - Anyone can commit straight away  - no need for moderation or asking for permissions
 
